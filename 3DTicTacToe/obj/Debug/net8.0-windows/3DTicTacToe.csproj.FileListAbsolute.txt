@@ -1,0 +1,16 @@
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\WinFormsApp1.TicTacToe.resources
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\3DTicTacToe.csproj.GenerateResource.cache
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\3DTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\3DTicTacToe.AssemblyInfoInputs.cache
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\3DTicTacToe.AssemblyInfo.cs
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\3DTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\bin\Debug\net8.0-windows\3DTicTacToe.exe
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\bin\Debug\net8.0-windows\3DTicTacToe.deps.json
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\bin\Debug\net8.0-windows\3DTicTacToe.runtimeconfig.json
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\bin\Debug\net8.0-windows\3DTicTacToe.dll
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\bin\Debug\net8.0-windows\3DTicTacToe.pdb
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\3DTicTacToe.dll
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\refint\3DTicTacToe.dll
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\3DTicTacToe.pdb
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\3DTicTacToe.genruntimeconfig.cache
+C:\Users\ivan\source\repos\3DTicTacToe\3DTicTacToe\obj\Debug\net8.0-windows\ref\3DTicTacToe.dll
