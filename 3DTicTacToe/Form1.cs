@@ -42,7 +42,6 @@ namespace WinFormsApp1
         private void InitializeComponent()
         {
             SuspendLayout();
-            ClientSize = new Size(619, 432);
             Name = "TicTacToe";
             ResumeLayout(false);
         }
